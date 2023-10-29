@@ -1,5 +1,5 @@
 # Modular Localization
-Demonstrates implementing independent localizations for each module.
+Demonstrates the implementation of independent localizations for each module.
 
 ## Why Use Modular Localization?
 
